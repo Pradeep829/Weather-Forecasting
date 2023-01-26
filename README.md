@@ -21,4 +21,4 @@ CODE EXPLAINATION:
 5. we have use datetime module to get day name .
 
 
-Technologies used: Python and Tkinter as GUI
+Technologies used: Python and Python Tkinter GUI
