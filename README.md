@@ -22,3 +22,4 @@ CODE EXPLAINATION:
 
 
 Technologies used: Python and Python Tkinter GUI
+Code Editor: Visual Studio Code
